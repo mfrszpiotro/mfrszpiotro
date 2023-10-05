@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mfrszpiotro or Marcel if you prefer.
+- 👋 Hi, my name is Marcel!.
 - 👀 I’m interested in movies and film-editing, but recently also in programming.
-- 🌱 I know C and C++ from my studies and a commercial use of C# and Flask web framework (along with basics of Python, Bootstrap, Jinja2).
-- 💞️ I’m looking to collaborate on ... anything! I am willing to learn literally anything :)
+- 🌱 You know how it is, most of the time I do a little bit of this, and a little bit of that (this = Python+Flask+HTML+CSS+JS, that = C#+dotnet).
 - 📫 How to reach me - https://www.linkedin.com/in/marcel-piotrowski-99654418b/
 
 <!---
